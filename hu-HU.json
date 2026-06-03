@@ -1,6 +1,6 @@
 {
     "name": "Magyar",
-    "description": "Egy nem hivatalos magyar fordítása a játéknak. The official developer-created english locale of the game. You can find community translations in the locale repository (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), though those translations are not quality-checked and might be innacurate or out of date.",
+    "description": "Egy nem hivatalos magyar fordítása a játéknak a demó 6.1-es verzióján. Ha észlelnél egy problémát, kérlek jelezd azt a https://github.com/benix268/scavgame-locale-hu/issues oldalon.",
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
