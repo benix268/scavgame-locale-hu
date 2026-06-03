@@ -2,8 +2,8 @@
     "name": "Magyar",
     "description": "Egy nem hivatalos magyar fordítása a játéknak a demó 6.1-es verzióján. Ha észlelnél egy problémát, kérlek jelezd azt a https://github.com/benix268/scavgame-locale-hu/issues oldalon.",
     "main": {
-        "bandage": "Dressing",
-        "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
+        "bandage": "Kötszer",
+        "bandagedsc": "Egy tekercs kötszer és egy ragtapasz. Használd ezt a vérzésed csillapításához, illetve a törések csillapításához és a bőröd gyógyulásának gyorsítására.",
         "rippeddressing": "Ripped dressing",
         "rippeddressingdsc": "A small pile of ripped clothing. Can be used as a makeshift bandage for bleeding wounds.",
         "rag": "Old rag",
